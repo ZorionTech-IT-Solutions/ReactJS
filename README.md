@@ -1,2 +1,1 @@
-# ReactJS
-ReactJS + Tailwind Demo
+# ReactJS + Tailwind Demo
